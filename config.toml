@@ -1,5 +1,5 @@
 title = 'Synthetic Yeast 2.0'
-baseURL = 'https://syntheticyeast.github.io'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 theme = "ananke"
 
