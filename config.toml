@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 7
 googleAnalytics = ""
 enableRobotsTXT = true
+buildDrafts = true
 
 [params]
   author = ""
